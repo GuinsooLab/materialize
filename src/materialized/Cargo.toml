@@ -72,7 +72,7 @@ mz-secrets = { path = "../secrets" }
 mz-secrets-filesystem = { path = "../secrets-filesystem" }
 mz-secrets-kubernetes = { path = "../secrets-kubernetes" }
 native-tls = { version = "0.2.10", features = ["alpn"] }
-nix = "0.23.1"
+nix = "0.24.1"
 num_cpus = "1.13.1"
 openssl = { version = "0.10.38", features = ["vendored"] }
 openssl-sys = { version = "0.9.72", features = ["vendored"] }
