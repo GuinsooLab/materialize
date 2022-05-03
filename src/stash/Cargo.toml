@@ -29,4 +29,4 @@ tokio-postgres = { git = "https://github.com/MaterializeInc/rust-postgres", bran
 anyhow = "1.0.57"
 criterion = { git = "https://github.com/MaterializeInc/criterion.rs.git", features = [ "html_reports" ] }
 tempfile = "3.3.0"
-tokio = { version = "1.17.0", features = ["macros"] }
+tokio = { version = "1.18.1", features = ["macros"] }
